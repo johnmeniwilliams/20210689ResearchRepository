@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MyStudentDB", "MyStudentDB.pyproj", "{EB2305BF-5353-4488-ADFB-0CF2E0516F45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2305BF-5353-4488-ADFB-0CF2E0516F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2305BF-5353-4488-ADFB-0CF2E0516F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD43B1D2-46B2-4B83-B374-B5D8C54F2E64}
+	EndGlobalSection
+EndGlobal
